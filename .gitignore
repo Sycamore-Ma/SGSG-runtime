@@ -1,0 +1,149 @@
+# ==============================
+# Unity Core
+# ==============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+SysInfo.txt
+
+# ==============================
+# IDE / OS
+# ==============================
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.userprefs
+*.swp
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Generated Files
+# ==============================
+*.mdb
+*.opendb
+*.VC.db
+*.obj
+*.log
+*.bak
+*.orig
+*.tmp
+*.temp
+*.stackdump
+*.crash
+*.dmp
+*.apk
+*.aab
+
+# ==============================
+# Android / iOS Builds
+# ==============================
+*.keystore
+*.jks
+*.gradle/
+.gradle/
+*.apk
+*.obb
+*.aab
+*.ipa
+*.xcworkspace/
+*.xcuserdata/
+Pods/
+DerivedData/
+
+# ==============================
+# Unity Cache / Metadata
+# ==============================
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/StreamingAssets/aa/*
+/[Aa]ssets/Plugins/Android/libs/
+/[Aa]ssets/Plugins/Android/.gradle/
+/[Aa]ssets/Plugins/iOS/Pods/
+/Packages/packages-lock.json.meta
+
+# ==============================
+# TextMeshPro auto files
+# ==============================
+# /Assets/TextMesh Pro/Resources/
+
+# ==============================
+# Crash / Profiling / Debug Data
+# ==============================
+*.memsnap
+*.prof
+*.trace
+*.recording
+*.replay
+*.log
+*.trace
+
+# ==============================
+# Platform Specific
+# ==============================
+# Windows
+*.exe
+*.dll
+*.pdb
+
+# macOS
+*.app
+*.dmg
+
+# Linux
+*.so
+*.a
+
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+SysInfo.txt
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android/iOS build outputs
+*.apk
+*.aab
+*.ipa
+Pods/
+DerivedData/
+
+# Unity cache
+[Aa]ssets/AssetStoreTools*
+
+# Git LFS (optional)
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text

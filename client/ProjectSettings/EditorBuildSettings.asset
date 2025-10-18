@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/XRIScene.unity
+    guid: 2cc5fb82351806d44b5a137d1bc823df
+  - enabled: 1
+    path: Assets/Samples/OpenXR Plugin/1.14.1/Controller/ControllerSample.unity
+    guid: edb91e86bd8b7dc4ca40ad6c3167de73
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: f3a238316a2d50c4bbe8f40adb07ccef, type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: dd63ba45786270c4bae8e297c0894255, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7ecc58a05060e274b9750c9f49a92f91, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9b2a897e178025749bd93032645844d0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1f939f91ebdfd1940bb2aae9a70f1226, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 71c6b78d77934324c96d169329df003e, type: 2}
